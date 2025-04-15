@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html lang="da-DK">
+
+<!--Udseende og Titel-->
+  <head>
+    <meta name="description" content="Lær om Isfuglen  og dens egenskaber og se nogle flotte billeder.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+      <meta charset="UTF-8">
+       <title>Isfuglen</title>
+  <style>
+body {background-color:rgb(184, 227, 233);
+text-align:center;}    
+h1 {color:rgb(230, 95, 31);}
+h3 {color:rgb(230, 95, 31);}
+p  {color:rgb(230, 95, 31);}
+.Galleri img {margin: 2px; transition: transform 0.3s;}
+.Galleri img:hover {transform: scale(1.05);}
+
+@media (max-width: 600px) {
+  .faktaboks[style] {
+    width: 90%}}
+@media (max-width: 600px) {
+  .Galleri img {
+    width: 90%;
+    height: auto;
+    margin-bottom: 10px;
+   }
+  }
+
+  </style>
+  </head>
+  <body>
+<!--Åbning-->
+<header>
+   <h1>Isfuglen</h1>
+  <h3>Hvad er en Isfugl?</h3>
+   <p>En Isfugl er egentlig bare en helt normal fugl, men alligevel er den noget</p>
+    <p>specielt.</p>
+  </header>
+  <section>
+<a href="https://images.unsplash.com/photo-1717949997603-982ed5c28462?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" target="_blank">
+<img src="https://images.unsplash.com/photo-1717949997603-982ed5c28462?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="465" height="310" alt="Billede af en Isfugl">
+</a>  
+<h3>Men hvorfor?</h3>
+<p>Grunden til det er blandt andet dens<!--flotte og--> mange farver og at den er god til at jage<br>under vand.</p>
+<p>Isfuglen er også meget sky. Så du hører den ofte før du ser den.</p>
+<p>Og udover alt dette graver den også rede i lodrette skrænter, rederne kan</p>
+<p>være op til en meter lange.</p>
+</section>
+
+
+<h3>Billeder af Isfuglen.</h3>
+<!--Galleri-->
+<section class="Galleri">
+  <a href="https://images.unsplash.com/photo-1444464666168-49d633b86797?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" target="_blank">
+  <img src="https://images.unsplash.com/photo-1444464666168-49d633b86797?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="299" height="200" alt="Isfugl på en gren.">
+  </a>
+  <a href="https://images.unsplash.com/photo-1601544829024-bc7f4c2213c5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" target="_blank">
+  <img src="https://images.unsplash.com/photo-1601544829024-bc7f4c2213c5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="162" height="200" alt="Close up af en Isfugl."><br>
+  </a>
+<a href="https://images.unsplash.com/photo-1470963162340-def4fd43095d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" target="_blank">
+  <img src="https://images.unsplash.com/photo-1470963162340-def4fd43095d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="300" height="200" alt="Close up billede af en Isfugl.">
+</a> 
+   <a href="https://images.unsplash.com/photo-1623156584604-ec56b8f92fcb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" target="_blank">
+  <img src="https://images.unsplash.com/photo-1623156584604-ec56b8f92fcb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="133" height="200" alt="Billede af en Isfugl på en gren.">
+  </a>
+</section><hr>
+<h3>Fakta om Isfuglen</h3>
+<!--Fakta-boks-->
+<section class="fakta-boks" style="background-color:rgb(210, 227, 233); padding:1rem; text-align: left; display: inline-block; border-radius: 10px; max-width:400px; margin:auto;">
+ <p><strong>Navn:</strong> Isfugl.</p>
+<p><strong>Latinsk Navn:</strong><i> Alcedo atthis.</i></p>
+<p><strong>Størrelse:</strong> Ca. 16 til 17 cm lang.</p>
+<p><strong>Vingefang:</strong> 24 til 26 cm.</p>
+<p><strong>Levetid:</strong> Op til 10 år.</p>
+<p><strong>Vægt:</strong> Ca. 35 til 45 gram.</p>
+<p><strong>Føde:</strong> Små fisk, insekter og krebsdyr.</p>
+<p><strong>Levested:</strong> Søer, åer, vandløb og steder tæt på kyster.</p>
+<p><strong>Udbredelse:</strong> Store dele af Europa, Asien og Nordafrika, også i Danmark.</p>
+<p><strong>Farver:</strong> Skinnende blå ryg og vinger, orange eller brun underside.</p>
+<p><strong>Fjender:</strong> Rovfugle, mink.</p>
+<p><strong>Særligt kendetegn:</strong> Kan se præcist gennem vand og dykke hurtigt gennem det.</p>
+<p><strong>Status i Danmark:</strong> Relativt sjælden (fredet)</p>
+</section>
+<hr>
+
+  </body>
+ </html>
